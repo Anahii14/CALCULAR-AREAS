@@ -14,9 +14,7 @@ Aplicación gráfica desarrollada en **Python** utilizando **PyQt6** para calcul
 ## ✨ Características
 
 ✔ Interfaz intuitiva y fácil de usar  
-✔ Validación de datos de entrada  
-✔ Cálculos matemáticos precisos  
-✔ Botón para borrar todos los campos  
+✔ Cálculos matemáticos precisos   
 ✔ Diseño responsive adaptable a distintos tamaños de ventana  
 
 ---

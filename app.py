@@ -4,7 +4,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from PyQt6.QtWidgets import QApplication, QMainWindow, QInputDialog, QMessageBox
 from PyQt6.QtGui import QAction
-from src.vistas.ui_main import Ui_AreaCalculator
+from src.vistas.Form_ui import Ui_AreaCalculator
 from src.logica import areas
 
 
